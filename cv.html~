@@ -10,7 +10,7 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <link rel="stylesheet" type="text/css" href="tomatoe.css" />
-    <!--<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />-->
+    <link rel="shortcut icon" href="leaf.ico" type="image/x-icon" />
   </head>
   <body>
 <!-- Beginning of top navigation -->
@@ -53,7 +53,7 @@
       <h2>
          CV / Resume
       </h2>
-       This page will have my academic CV and industry resume.
+       Curriculum vitae (2015) <a href="">[pdf]</a>
       <br />
 
     </div>
